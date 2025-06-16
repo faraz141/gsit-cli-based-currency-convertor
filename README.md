@@ -22,3 +22,5 @@ A simple and interactive CLI-based currency converter built using **TypeScript**
 git clone https://github.com/faraz141/gsit-cli-based-currency-convertor.git
 cd gsit-cli-based-currency-convertor
 npm install
+
+CREATED BY FARAZ ALAM
